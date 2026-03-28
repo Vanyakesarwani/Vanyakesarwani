@@ -4,7 +4,7 @@ I am:
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;Data+Science;&center=false&width=450&height=30">
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=shradhaa-singh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Vanyakesarwani&color=blue)
 
 ---
 
