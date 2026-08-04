@@ -1,7 +1,7 @@
 # Hi, I am Vanya Kesharwani
 
-I am:  
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML+Enthusiast;Data+Science;&center=false&width=450&height=30">
+I am interested in :  
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI%2FML;Data+Science;&center=false&width=450&height=30">
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vanyakesarwani&color=blue)
@@ -9,7 +9,7 @@ I am:
 ---
 
 ## ABOUT ME
-- 🎓 Second year Computer Science Engineering (AI/ML) student  
+- 🎓 Pre-final year Computer Science Engineering (AI/ML) student  
 - 💻 Skilled in **Python and C and Java**, currently learning **Data Structures & Algorithms** in **Python**
 - 🤖 Passionate about **Artificial Intelligence and Machine Learning**  
 - 💡 Eager to **learn new skills and contribute to projects** 
@@ -19,7 +19,7 @@ I am:
 ## EDUCATION
 - 🎓 **B.Tech in Computer Science (AI/ML)**  
 - 🏫 **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**  
-- 📊 **GPA:** 7.87/10  
+- 📊 **GPA:** 7.9/10  
 
 ---
 
@@ -27,7 +27,7 @@ I am:
 
 **Languages:**  
  
-![Skills](https://skillicons.dev/icons?i=c,python,java,cpp,html,css)
+![Skills](https://skillicons.dev/icons?i=c,python,java,cpp,html,css,react,mysql)
 
 **Tools:**   
 
